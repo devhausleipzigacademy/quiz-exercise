@@ -1,3 +1,4 @@
+// Install readline-sync and chalk@2.4.1
 // Print out welcome message
 
 // Store player name
